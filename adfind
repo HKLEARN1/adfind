@@ -90,10 +90,6 @@ else if(argval("h")){
 		-u --> URL of site {example: adfind -u http://example.com}
 		-t --> type of admin panel (default is all) {types: php , asp, aspx, js, cfm, cgi, brf. example:adfind -u http://example.com -t php}
 		-h --> this help menu
-		---------------------------------------
-		Donate me to WebMoney "Z182464721258"
-		Idram ID "136892811"
-		BTC: "1RL1NMsZfk7eszSrVKhJbBw6RJjFfAMwT"
 ';
 	}
 	else if(argval("U") == "yes" || argval("-update") == "yes"){
@@ -101,6 +97,6 @@ else if(argval("h")){
 	}
 }
 else {
-	echo "By @sahag \n".'Usage "adfind -u http://example.com" or "adfind -h" for more help'."\nDonate me to Webmoney 'Z182464721258', Idram ID '136892811' or BTC '1RL1NMsZfk7eszSrVKhJbBw6RJjFfAMwT'\n";
+	echo "By @HK \n".'Usage "adfind -u http://example.com" or "adfind -h" for more help'."\n'\n";
 }
 ?>
