@@ -8,7 +8,7 @@
 #### sudo pacman -S php curl <br />
 #### sudo pacman -S git<br />
 ## Installing php and git on debian
-#### sudo apt-get install php7.0-cli curl<br />
+#### sudo apt-get install php <br />
 #### sudo apt-get install git<br />
 ## installing adfind
 #### sudo git clone https://github.com/sahakkhotsanyan/adfind.git<br />
