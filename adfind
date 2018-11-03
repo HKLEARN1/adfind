@@ -97,6 +97,6 @@ else if(argval("h")){
 	}
 }
 else {
-	echo "By @HK \n".'Usage "adfind -u http://example.com" or "adfind -h" for more help'."\n'\n";
+	echo "By @HK \n".'Usage "adfind -u http://example.com" or "adfind -h" for more help'."\n'";
 }
 ?>
